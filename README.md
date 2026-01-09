@@ -6,7 +6,7 @@
 
 ### 懒人的仓库
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=liuyuexiaoyu1&repo=Carpet-Igny-Addition)](https://github.com/liuyuexiaoyu1/Carpet-Igny-Addition)
+[![](http://150.109.116.144:9000/api/pin/?username=liuyuexiaoyu1&repo=Carpet-Igny-Addition)](https://github.com/liuyuexiaoyu1/Carpet-Igny-Addition)
 
-### 写的（累人）的语言
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuexiaoyu1&layout=compact&langs_count=6)
+### 写的（超累人的）的语言
+![](http://150.109.116.144:9000/api/top-langs/?username=liuyuexiaoyu1&layout=compact&langs_count=6)
